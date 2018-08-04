@@ -27,4 +27,5 @@ hs_err_pid*
 .classpath
 .project
 /example1/target/
-
+/example2/.settings/
+/example2/target/
