@@ -39,6 +39,6 @@ Caused by: java.lang.InstantiationException: tk.mybatis.mapper.provider.SpecialP
     at java.lang.Class.newInstance(Class.java:364)
     at org.apache.ibatis.builder.annotation.ProviderSqlSource.createSqlSource(ProviderSqlSource.java:85)
     ... 22 more
-
+```java
 
 **代码没有数据库相关的配置，运行代码之前，需要把数据库相关的配置补上。**
